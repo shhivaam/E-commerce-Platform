@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Platform Overview
 
 This project is a comprehensive e-commerce website designed to provide a seamless shopping experience. It includes essential features such as payment processing, user authentication, and customer support.
@@ -26,3 +27,7 @@ We welcome contributions from the community. Please read our contributing guidel
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+=======
+# E-commerce-Platform
+Built a comprehensive e-commerce platform with essential features.
+>>>>>>> 6d3d6d55a819a002d8858fea9812d41d32c4e3cf
