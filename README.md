@@ -19,15 +19,3 @@ This project is a comprehensive e-commerce website designed to provide a seamles
 ## Getting Started
 
 To get started with the project, clone the repository and follow the setup instructions in the documentation.
-
-## Contributing
-
-We welcome contributions from the community. Please read our contributing guidelines before submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-=======
-# E-commerce-Platform
-Built a comprehensive e-commerce platform with essential features.
->>>>>>> 6d3d6d55a819a002d8858fea9812d41d32c4e3cf
